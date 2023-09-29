@@ -1,4 +1,11 @@
 {
-"url": 
-"https://i.waifu.pics/Tj6Wzwo.png"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
